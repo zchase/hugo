@@ -6,4 +6,4 @@ title = "about"
 
 ## Welcome to Hugo
 
-This static site was built and deployed by Distelli!
+This website was built and deployed by Distelli!
